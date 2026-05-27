@@ -2,10 +2,10 @@
 Amateur Radio 6cm (5.7GHz) upconverter project by VK6DSL - Western Australia
 
 ## Overview
-- 6cm Upconverter using Mitec 9020 Satellite Up Coverter as the Foundation
+- 6cm Upconverter using Mitec 9020 Satellite Upconverter as the Foundation
 
 ## Hardware
-- Mitec 9020 Satellite Earth Station Up Converter with Option 22 (140 Mhz +- 18 MHz Input IF).
+- Mitec 9020 Satellite Earth Station Upconverter with Option 22 (140 Mhz +- 18 MHz Input IF).
 - Kuhne MKU LO 8 - 13 PLL 2 (Oscillator)
 - Codan 5740 40W SSPA
 
